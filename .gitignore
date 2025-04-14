@@ -172,12 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Cardio project specific
-Data/
-*.pdf
-*.pkl
-*.pt
-*.h5
-*.log
-.DS_Store
