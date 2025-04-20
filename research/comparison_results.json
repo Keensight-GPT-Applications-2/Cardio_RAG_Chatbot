@@ -1,0 +1,690 @@
+[
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 4,
+    "answer": "The recommended treatment for STEMI includes triage to a coronary care unit or step-down unit, continuous ECG monitoring, and pulse oximetry. Anticoagulation with heparin (either unfractionated heparin or low-molecular-weight heparin) is standard, especially for patients undergoing primary PCI or receiving fibrinolytic therapy. Additionally, adjunctive antithrombotic therapy, including antiplatelet agents, is recommended to support primary PCI (Hurst's the Heart, p.495). Reperfusion therapy, either through primary PCI or fibrinolytic therapy, should be initiated as soon as possible to minimize ischemic time. Coordination of care across all stakeholders is essential to optimize outcomes (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 6,
+    "answer": "The recommended treatment for STEMI includes primary percutaneous coronary intervention (PCI) as the preferred option for restoring blood flow, provided that it can be performed in a timely manner. If PCI is not readily available, thrombolytic therapy is often used, although it may be delayed or avoided in patients with severe uncontrolled hypertension due to the risk of complications. Additionally, anticoagulation with heparin (either unfractionated heparin or low-molecular-weight heparin) is standard in the management of STEMI, particularly for those undergoing primary PCI or receiving thrombolytic agents (Hurst's the Heart, p.495). Continuous monitoring and supportive care in a coronary care unit or step-down unit are also essential components of management.",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 8,
+    "answer": "The recommended treatment for ST-segment elevation myocardial infarction (STEMI) includes rapid restoration of blood flow to the infarct zone, primarily through primary percutaneous coronary intervention (PCI) if available. If PCI is not readily accessible, thrombolytic therapy is commonly used, although it may be delayed or avoided in patients with severe uncontrolled hypertension due to the risk of complications. Anticoagulation with heparin is standard for patients undergoing PCI or receiving thrombolytic agents. Additionally, continuous monitoring and supportive care in a coronary care unit or step-down unit are essential (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 64
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 10,
+    "answer": "The recommended treatment for ST-segment elevation myocardial infarction (STEMI) includes rapid restoration of blood flow to the infarct zone, primarily through primary percutaneous coronary intervention (PCI) when available. If PCI is not readily accessible, thrombolytic therapy is commonly used, although it may be delayed or avoided in cases of severe uncontrolled hypertension. Anticoagulation with heparin is standard during management, and adjunctive antithrombotic therapies are recommended to support PCI or fibrinolytic therapy (Hurst's the Heart, p.495). Continuous monitoring and triage to appropriate care units are also essential components of STEMI management (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 64
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 192
+      },
+      {
+        "source": "2013 AHA STEMI Executive summary.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 4,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves and the presence of low-amplitude baseline oscillations known as fibrillatory waves, with a ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p.495). AF can result in a fast heart rate and may be associated with various clinical conditions.",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 6,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves, low-amplitude baseline oscillations (fibrillatory waves), and a variable ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p. 1272). The condition can result in symptoms such as palpitations, fatigue, and an increased risk of stroke. AF may be acute, persistent, or paroxysmal, depending on the duration and frequency of episodes.",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 8,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by an irregularly irregular ventricular rhythm and the absence of distinct P waves on the electrocardiogram (ECG). It is produced by chaotic electrical activity in the atria, leading to multiple irregular wavelets of atrial activation. The ventricular rate during untreated AF typically ranges from 100 to 160 beats per minute, and the ECG may show low-amplitude baseline oscillations known as fibrillatory waves (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      },
+      {
+        "source": "ECG AMAL MATTU 1.pdf",
+        "page": 74
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1983
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 10,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves and the presence of low-amplitude baseline oscillations known as fibrillatory waves, with a ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p. 1272). AF can present as acute, persistent, or paroxysmal episodes and may be associated with various precipitating factors or underlying conditions. The diagnosis is confirmed through ECG findings, which show a fast irregular rhythm and variable R-R intervals (Hurst's the Heart, p. 495).",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      },
+      {
+        "source": "ECG AMAL MATTU 1.pdf",
+        "page": 74
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1983
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 834
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 4,
+    "answer": "NSTEMI (Non-ST-Elevation Myocardial Infarction) differs from unstable angina primarily in the presence of myocardial injury. In NSTEMI, there is sufficient myonecrosis detectable by serum biomarkers, such as elevated troponin levels, indicating damage to the heart muscle. In contrast, unstable angina does not result in myocardial necrosis, and serum biomarkers remain negative. Both conditions may present similarly with chest pain or discomfort, but NSTEMI typically has more prolonged or intense symptoms at rest (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 6,
+    "answer": "NSTEMI differs from unstable angina (UA) primarily in the severity of ischemia and the resulting myocardial damage. In NSTEMI, ischemia is severe enough to cause myocardial injury, which is detectable by elevated biomarkers such as troponins. In contrast, UA may present without any objective evidence of myocardial ischemic injury, as it can occur with normal ECG and normal troponin levels. Both conditions share similar clinical presentations, but NSTEMI is associated with more prolonged or intense symptoms compared to UA (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 8,
+    "answer": "NSTEMI and unstable angina (UA) are closely related conditions that differ primarily in the severity of ischemia and the presence of myocardial injury. NSTEMI is characterized by myocardial damage that leads to detectable quantities of biomarkers such as troponins, indicating myocardial necrosis, while UA does not result in biochemical evidence of myocardial necrosis despite similar clinical presentations (Hurst's the Heart, p.495). Both conditions can present with rest angina, but NSTEMI typically involves more prolonged or intense symptoms. The increasing sensitivity of troponin assays has led to a decline in the incidence of troponin-negative ACS, making UA less common (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 986
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 787
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 10,
+    "answer": "NSTEMI differs from unstable angina primarily in the presence of myocardial damage. In NSTEMI, there is sufficient ischemia to cause myonecrosis, which is detectable by elevated serum biomarkers such as troponins. In contrast, unstable angina occurs without biochemical evidence of myocardial necrosis, despite symptoms of angina due to reduced myocardial perfusion from nonocclusive coronary thrombosis. Both conditions share similar clinical presentations and pathogenesis, but NSTEMI is considered more severe due to the myocardial injury involved (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 986
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 787
+      },
+      {
+        "source": "2024 AHA Perioperative Cardiovascular managenent for Noncardiac Surgery.pdf",
+        "page": 24
+      },
+      {
+        "source": "2024 AHA Perioperative Cardiovascular managenent for Noncardiac Surgery(1).pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 4,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 6,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications include asthma, severe depression, brittle diabetes, and peripheral vascular disease, which require cautious use (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 8,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (especially in patients with resting leg pain) (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation (1).pdf",
+        "page": 98
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation .pdf",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 10,
+    "answer": "The absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (especially in patients with resting leg pain). However, \u03b2-adrenergic receptor antagonists may still be used effectively in patients with intermittent claudication due to peripheral vascular disease (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation (1).pdf",
+        "page": 98
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation .pdf",
+        "page": 98
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 188
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 325
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 4,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered. Other relevant factors may include a family history of heart disease and lifestyle factors such as physical inactivity and poor diet (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 6,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, additional factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should also be considered (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 8,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, additional factors to consider are recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, and the use of oral contraceptives (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 10,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1880
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2419
+      }
+    ]
+  }
+]
