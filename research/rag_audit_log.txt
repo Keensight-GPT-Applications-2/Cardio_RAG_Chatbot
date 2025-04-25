@@ -503,3 +503,153 @@ Source: ECG 150 Problems 4th ed.pdf, Page: 267.0
 Content Preview:
 257 ECG 129 A 60-year-old man had complained of occasional episodes of palpitations for several years. Between attacks he was well, there were no physical abnormalities, and his ECG was normal. Eventually this ECG was recorded during one of his attacks. What is the arrhythmia and what would you do? 
 
+
+
+20250425_175840
+Query: What is Acute coronary syndrome?
+
+Answer:
+Acute coronary syndrome (ACS) refers to a range of conditions associated with sudden, reduced blood flow to the heart, which can lead to myocardial ischemia and infarction. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). The clinical presentation often involves chest pain or discomfort, and diagnosis is typically supported by ECG changes and elevated cardiac biomarkers (Hurst's the Heart, p.495). ACS is a critical condition that requires prompt medical attention and intervention to restore blood flow and minimize heart damage.
+
+Sources:
+- Hurst’s the Heart ( PDFDrive ).pdf, page 535
+- Hurst’s the Heart ( PDFDrive ).pdf, page 987
+- OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, page 314
+- Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, page 315
+- Clinical Cases in Cardiology ( PDFDrive ).pdf, page 43
+- Clinical Cases in Cardiology ( PDFDrive ).pdf, page 60
+
+======================
+Retrieved Chunks for: 'What is Acute coronary syndrome?'
+======================
+
+---
+Source: Hurst’s the Heart ( PDFDrive ).pdf, Page: 535.0
+Content Preview:
+for diagnosing acute coronary syndromes and predicting clinical outcome in emergency department patients with chest pain of uncertain ori - gin. Circulation. 2007;115:1762-1768. 90. Hoffmann U, Bamberg F. Is computed tomography coronary angiography the most accurate and effective noninvasive imaging
+
+---
+Source: Hurst’s the Heart ( PDFDrive ).pdf, Page: 987.0
+Content Preview:
+Presentation Ischemic discomfort ACS No ST elevation ST elevation NSTE-ACS UA Unstable angina Myocardial infarction NQMI QwMI Noncardiac etiologies NSTEMI* STEMI* Working Dx ECG Cardiac biomarker Final Dx –1. Clinical, pathologic, electrical, and biochemical correlates of acute coronary syndrome. AC
+
+---
+Source: OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, Page: 314.0
+Content Preview:
+chest pain Cardiovascular Acute coronary syndrome Aortic stenosis Hypertension Aortic dissection Myocarditis Pericarditis Hypertrophic cardiomyopathy ESC 2013 GL on stable CAD Investigation in patients with suspected coronary microvascular disease Exercise or dobutamine echocardiography in order to 
+
+---
+Source: Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, Page: 315.0
+Content Preview:
+acute coronary events. The coronary arteries of a patient who has stable angina also contain many nonatherosclerotic plaques, which are prone to fissuring or rupture in an unpredictable manner, resulting in presentation of acute coronary syndromes (unsta- ble angina, myocardial infarction, and sudde
+
+---
+Source: Clinical Cases in Cardiology ( PDFDrive ).pdf, Page: 43.0
+Content Preview:
+37 What Are the Possible Causes for ST Elevation? What Are the Possible Causes of Increased Troponin Level? In a setting of acute coronary syndrome and ST elevation, the patient has been promptly treated with metoprolol and acetylsalicylic acid intravenous and a percutaneous coronary angiog- raphy w
+
+---
+Source: Clinical Cases in Cardiology ( PDFDrive ).pdf, Page: 60.0
+Content Preview:
+ Acute coronary syndrome with ST- segment elevation (ACS-STEMI) with or without possible coronary spasm  Myocarditis/pericarditis  Early repolarization pattern  Acute pulmonary embolism  Hyperkalemia  Brugada syndrome  Acute aortic dissection A. Fabbrizioli and G. Pongetti
+
+
+
+20250425_175841
+Query: How is heart failure with preserved ejection fraction (HFpEF) managed?
+
+Answer:
+I’m not sure based on the provided information.
+
+Sources:
+- 2022 AHA Heart failure.pdf, page 107
+- OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, page 394
+- Hurst’s the Heart ( PDFDrive ).pdf, page 1715
+- Braunwald Vol 2.pdf, page 397
+- OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, page 417
+- Braunwald Vol 2.pdf, page 531
+
+======================
+Retrieved Chunks for: 'How is heart failure with preserved ejection fraction (HFpEF) managed?'
+======================
+
+---
+Source: 2022 AHA Heart failure.pdf, Page: 107.0
+Content Preview:
+rate; GDMT, guideline-directed medical therapy; HF, heart failure; HFimpEF, heart failure with improved ejection fraction; HFmrEF, heart failure with mildly reduced ejection fraction; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; LV, left
+
+---
+Source: OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, Page: 394.0
+Content Preview:
+third heart sound, cardiac murmurs, abnormality on the echocardiogram, such as reduced LVEF or valve dis- ease or other structural disorder, raised natriuretic peptide concentration). Heart failure with reduced ejection fraction (<40%) (HFrEF) Also referred to as systolic HF . Randomized clinical tr
+
+---
+Source: Hurst’s the Heart ( PDFDrive ).pdf, Page: 1715.0
+Content Preview:
+most common categorization based on cardiac structure and function, and one of substantial clinical importance, is whether the indi- vidual patient with HF has a preserved or a reduced LVEF. Heart failure with reduced ejection fraction (HFrEF) and HF with preserved ejection fraction (HFpEF) were pre
+
+---
+Source: Braunwald Vol 2.pdf, Page: 397.0
+Content Preview:
+preserved ejection fraction (HFpEF, left) and heart failure with reduced ejection fraction (HFrEF, right) demonstrating the differential effects of vasodilator therapy. In HFpEF, the end- systolic pressure volume relationship is steep, Ees is high, and reductions in arterial afterload or elastance (
+
+---
+Source: OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf, Page: 417.0
+Content Preview:
+GDMT, guideline directed medical therapy; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HRQOL, health-related quality of life; ICD, implantable cardioverter-deﬁ brillator; LVEF, left ventricular ejection fraction; MI, m
+
+---
+Source: Braunwald Vol 2.pdf, Page: 531.0
+Content Preview:
+Heart Failure with Preserved and Mildly Reduced Ejection Fraction 1015 51 valvular heart disease, pulmonary vascular disease, and RV failure are all potential causes of a low stroke volume in the setting of elevated cardiac filling pressures. Dynamic “perturbation” during invasive hemodynamic testin
+
+
+
+20250425_175844
+Query: What are the common risk factors for developing coronary artery disease?
+
+Answer:
+Common risk factors for developing coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease. Additionally, a family history of premature CAD and the presence of coronary risk factors such as peripheral artery disease, abdominal aortic aneurysm, and carotid artery disease are also significant (Hurst's the Heart, p.495).
+
+Sources:
+- Braunwald Vol 2.pdf, page 190
+- Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, page 85
+- Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, page 154
+- Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, page 392
+- Hurst’s the Heart ( PDFDrive ).pdf, page 1175
+- Braunwald Vol 3.pdf, page 272
+
+======================
+Retrieved Chunks for: 'What are the common risk factors for developing coronary artery disease?'
+======================
+
+---
+Source: Braunwald Vol 2.pdf, Page: 190.0
+Content Preview:
+781.e6 ATHEROSCLEROTIC CARDIOVASCULAR DISEASE V Exclusion of acute coronary syndrome and noncardiac chest pain1 Assessment of objective risk markers for CAD2 Consideration of anatomical or functional testing for CAD3 Management of stable angina4 Perform detailed patient history and physical examinat
+
+---
+Source: Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, Page: 85.0
+Content Preview:
+65 years). {Coronary heart disease (CHD) includes a history of myocardial infarction, unstable angina, coronary artery procedures, or evidence of significant myocardial ischemia. {CHD risk equivalents include clinical manifestations of noncoronary forms of atherosclerotic disease (peripheral artery 
+
+---
+Source: Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, Page: 154.0
+Content Preview:
+of risk factors for atherosclerotic and cardiac disease, including hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, elicit a history of recent trauma, co
+
+---
+Source: Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf, Page: 392.0
+Content Preview:
+disease; n a family history of premature CAD; and n the presence of coronary risk factors (i.e., diabetes melli- tus, hypertension, smoking, and hyperlipidemia). A history that includes any of these factors, especially previous manifestations of coronary heart disease, sup- ports the diagnosis and a
+
+---
+Source: Hurst’s the Heart ( PDFDrive ).pdf, Page: 1175.0
+Content Preview:
+THE PROGRESSION OF CHRONIC CORONARY ARTERY DISEASE Coronary atherosclerotic plaque formation occurs as a consequence of aberrant molecular signaling pathways that increase vascular inflam- mation, induce injury to blood vessel wall cellular components, and promote adverse vascular remodeling. 32 An 
+
+---
+Source: Braunwald Vol 3.pdf, Page: 272.0
+Content Preview:
+is the initial stage of calcific valve disease and, even in the absence of valve obstruction or known cardiovascular disease, is associated with an increased risk of myocardial infarction (MI) and cardio - vascular and all- cause mortality .4 Epidemiologic associations have been documented between c
+
