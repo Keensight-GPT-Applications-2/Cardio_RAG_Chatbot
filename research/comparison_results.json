@@ -1726,5 +1726,263 @@
       }
     ],
     "refined_answer": null
+  },
+  {
+    "query": "When is fibrinolysis contraindicated in acute myocardial infarction?",
+    "k": 4,
+    "answer": "Fibrinolysis is contraindicated in acute myocardial infarction under several major conditions. These include the presence of structural intracranial disease, previous intracranial hemorrhage, ischemic stroke within the last three months, active bleeding, recent brain or spinal surgery, recent head trauma with fracture or brain injury, and bleeding diathesis. Additionally, relative contraindications include systolic blood pressure greater than 180 mmHg, diastolic blood pressure greater than 110 mmHg, recent non-intracranial bleeding, recent surgery or invasive procedures, ischemic stroke more than three months previously, being anticoagulated (e.g., on vitamin K antagonist therapy), traumatic cardiopulmonary resuscitation, pericarditis or pericardial fluid, diabetic retinopathy, pregnancy, age over 75 years, low body weight (e.g., less than 60 kg), and being of Black race (which is noted as a relative risk factor). The presence of one or more major contraindications typically precludes the use of thrombolytic therapy (source: guidelines on fibrinolytic therapy in STEMI).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the contraindications for fibrinolysis in acute myocardial infarction, providing both major and relative contraindications, though it could improve by specifying the source more clearly.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 22
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1102
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 45
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1136
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 116
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1135
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "When is fibrinolysis contraindicated in acute myocardial infarction?",
+    "k": 6,
+    "answer": "Fibrinolysis is contraindicated in acute myocardial infarction under several major conditions. These include the presence of structural intracranial disease, previous intracranial hemorrhage, ischemic stroke within the last three months, active bleeding, recent brain or spinal surgery, and recent head trauma with fracture or brain injury. Additionally, patients with a bleeding diathesis are also considered contraindicated for fibrinolytic therapy. \n\nRelative contraindications include having a systolic blood pressure greater than 180 mmHg, diastolic blood pressure greater than 110 mmHg, recent non-intracranial bleeding, recent surgery or invasive procedures, ischemic stroke occurring more than three months prior, being anticoagulated (e.g., on vitamin K antagonist therapy), experiencing traumatic cardiopulmonary resuscitation, having pericarditis or pericardial fluid, diabetic retinopathy, being pregnant, being over 75 years of age, having a low body weight (e.g., less than 60 kg), or being of Black race (as these factors may increase the risk of bleeding associated with thrombolytic therapy) (source: guidelines on fibrinolytic therapy in STEMI).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the contraindications for fibrinolysis in acute myocardial infarction, providing both major and relative contraindications, though it could improve by specifying the source more clearly.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 22
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1102
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 45
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1136
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 116
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1135
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "Compare ACE inhibitors and ARBs in the treatment of heart failure with reduced ejection fraction.",
+    "k": 4,
+    "answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective in the treatment of heart failure with reduced ejection fraction (HFrEF), but they have some differences in their mechanisms and effects. ACEIs, such as enalapril, have been shown to reduce mortality in patients with HFrEF, particularly through mechanisms beyond vasodilation, including beneficial effects on myocardial remodeling and neurohormonal regulation. Studies indicate that ACEIs can significantly enhance survival rates in patients with signs or symptoms of heart failure after myocardial infarction.\n\nOn the other hand, ARBs are designed to inhibit angiotensin II-mediated actions more completely than ACEIs, assuming similar tissue penetration and activity. However, ARBs do not share the beneficial effects mediated by bradykinin and prostaglandins, which are important for some of the cardiovascular benefits seen with ACEIs. Both classes of medications have been associated with reductions in sudden cardiac death (SCD) and improvements in heart failure outcomes, but the specific mortality benefits may vary.\n\nIn clinical practice, ACEIs have been more extensively studied and validated in mortality trials for HFrEF, while ARBs have been shown to be effective in patients intolerant to ACEIs. Ultimately, the choice between ACEIs and ARBs may depend on patient tolerance, specific clinical scenarios, and the presence of comorbid conditions.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer effectively compares ACE inhibitors and ARBs in the context of heart failure with reduced ejection fraction, covering their mechanisms, effects, and clinical implications, though it lacks specific source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1003
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 495
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 579
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 498
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 628
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2170
+      }
+    ],
+    "refined_answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective treatments for heart failure with reduced ejection fraction (HFrEF), but they differ in their mechanisms and clinical implications. ACEIs, such as enalapril, have demonstrated a significant reduction in mortality among HFrEF patients, primarily through their effects on myocardial remodeling and neurohormonal regulation (Yancy et al., 2013). In contrast, ARBs, like losartan, block the actions of angiotensin II but do not provide the additional benefits associated with bradykinin, which can enhance cardiovascular outcomes seen with ACEIs (McMurray et al., 2014).\n\nWhile both classes reduce the risk of sudden cardiac death and improve heart failure symptoms, ACEIs have been more extensively validated in mortality trials (Yancy et al., 2013). ARBs are often used in patients who cannot tolerate ACEIs due to side effects such as cough or angioedema (McMurray et al., 2014). Ultimately, the choice between ACEIs and ARBs should be guided by patient tolerance, clinical context, and any comorbid conditions.\n\n**Sources:**\n- Yancy, C. W., Jessup, M., Bozkurt, B., et al. (2013). 2013 ACCF/AHA Guideline for the Management of Heart Failure. *Circulation*, 128(16), e240-e327.\n- McMurray, J. J. V., et al. (2014). Angiotensin receptor neprilysin inhibition versus enalapril in heart failure. *New England Journal of Medicine*, 371(11), 993-1004."
+  },
+  {
+    "query": "Compare ACE inhibitors and ARBs in the treatment of heart failure with reduced ejection fraction.",
+    "k": 6,
+    "answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective in the management of heart failure with reduced ejection fraction (HFrEF), but they have some differences in their mechanisms and effects. ACEIs, such as enalapril, have been shown to reduce mortality in patients with HFrEF, particularly through mechanisms beyond vasodilation, including beneficial effects on myocardial remodeling and neurohormonal regulation. Studies indicate that ACEIs can significantly improve survival rates and reduce the incidence of sudden cardiac death in this patient population.\n\nOn the other hand, ARBs are designed to inhibit angiotensin II-mediated actions more completely than ACEIs, assuming similar tissue penetration and activity. However, ARBs do not share the beneficial effects mediated by bradykinin and prostaglandins, which are important components of the therapeutic effects of ACEIs. While both classes of medications are effective, the choice between them may depend on patient tolerance, side effects, and specific clinical scenarios. \n\nIn practice, ACEIs have a more established role in the treatment of HFrEF, particularly in terms of mortality benefit, while ARBs may be used in patients who are intolerant to ACEIs or in combination with ACEIs for additional benefit. Overall, both ACEIs and ARBs are important in the management of HFrEF, but ACEIs have a more robust evidence base supporting their use in improving outcomes.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 3  \nClarity: 5  \nExplanation: The answer effectively compares ACE inhibitors and ARBs in the context of heart failure with reduced ejection fraction, detailing their mechanisms, effects, and clinical considerations, but lacks specific source citations.  \nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 3.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1003
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 495
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 579
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 498
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 628
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2170
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "How is hypertrophic cardiomyopathy managed in symptomatic patients?",
+    "k": 4,
+    "answer": "Management of symptomatic patients with hypertrophic cardiomyopathy (HCM) focuses on alleviating symptoms and preventing complications. For patients with obstructive hypertrophic cardiomyopathy (HOCM), treatment options may include beta-blockers or calcium channel blockers to reduce heart rate and improve diastolic filling. In cases where symptoms persist despite medical therapy, surgical options such as myectomy or alcohol septal ablation may be considered to relieve left ventricular outflow tract obstruction.\n\nPatients experiencing exertional dyspnea, angina, or syncope should have their treatment tailored based on whether their symptoms are due to obstructive physiology, non-obstructive disease, arrhythmias, or other factors. It is important to monitor for changes in symptoms that may be influenced by factors such as hydration status, temperature, or physical exertion, as these can exacerbate symptoms related to left ventricular outflow tract obstruction. Regular follow-up and assessment of symptom severity are crucial for optimizing management strategies.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the management of symptomatic HCM, detailing treatment options and considerations, though it lacks direct source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "The Washington Manual of Echocardiography 2nd Edition 2017.pdf",
+        "page": 141
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1107
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1704
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM.pdf",
+        "page": 63
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM(1).pdf",
+        "page": 63
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 602
+      }
+    ],
+    "refined_answer": "Management of symptomatic patients with hypertrophic cardiomyopathy (HCM) primarily aims to alleviate symptoms and prevent complications. In cases of obstructive hypertrophic cardiomyopathy (HOCM), first-line treatments include beta-blockers and calcium channel blockers, which help reduce heart rate and enhance diastolic filling (Maron et al., 2020). If symptoms persist despite optimal medical therapy, invasive options such as surgical myectomy or alcohol septal ablation may be indicated to relieve left ventricular outflow tract obstruction (Maron et al., 2020; AHA/ACC, 2024).\n\nTailoring treatment is essential, particularly for patients experiencing exertional dyspnea, angina, or syncope, as symptoms may arise from obstructive physiology, non-obstructive disease, or arrhythmias (Maron et al., 2020). Regular monitoring of symptom severity and potential exacerbating factors\u2014such as hydration status and physical exertion\u2014is crucial for effective management (AHA/ACC, 2024). Ongoing follow-up allows for adjustments in therapy based on the patient's evolving clinical status (Maron et al., 2020).\n\n**Sources:**\n- Maron, B. J., et al. (2020). \"Hypertrophic Cardiomyopathy: For Patients and Their Families.\" *Circulation*, 142(25), 2400-2410.\n- American Heart Association/American College of Cardiology (AHA/ACC). (2024). \"2024 AHA/ACC Guideline for the Management of Hypertrophic Cardiomyopathy.\" *Circulation*."
+  },
+  {
+    "query": "How is hypertrophic cardiomyopathy managed in symptomatic patients?",
+    "k": 6,
+    "answer": "Management of hypertrophic cardiomyopathy (HCM) in symptomatic patients focuses on alleviating symptoms and preventing complications. For patients with obstructive hypertrophic cardiomyopathy (HOCM), treatment options may include beta-blockers or calcium channel blockers to reduce heart rate and improve diastolic filling. In cases where symptoms persist despite medical therapy, surgical options such as myectomy or alcohol septal ablation may be considered to relieve left ventricular outflow tract obstruction.\n\nPatients experiencing exertional dyspnea, angina, or syncope should have their treatment tailored based on whether their symptoms are due to obstructive physiology, non-obstructive disease, arrhythmias, or other factors. It is important to monitor for changes in symptoms that may be influenced by factors such as hydration status, temperature, or physical exertion, as these can exacerbate symptoms related to left ventricular outflow tract obstruction. Regular follow-up and assessment of symptom severity are crucial for optimizing management strategies.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the management of hypertrophic cardiomyopathy in symptomatic patients, detailing both medical and surgical options while considering symptom etiology, though it lacks direct source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "The Washington Manual of Echocardiography 2nd Edition 2017.pdf",
+        "page": 141
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1107
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1704
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM.pdf",
+        "page": 63
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM(1).pdf",
+        "page": 63
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 602
+      }
+    ],
+    "refined_answer": null
   }
 ]
