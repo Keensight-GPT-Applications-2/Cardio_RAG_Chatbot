@@ -1,0 +1,1988 @@
+[
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 4,
+    "answer": "The recommended treatment for STEMI includes triage to a coronary care unit or step-down unit, continuous ECG monitoring, and pulse oximetry. Anticoagulation with heparin (either unfractionated heparin or low-molecular-weight heparin) is standard, especially for patients undergoing primary PCI or receiving fibrinolytic therapy. Additionally, adjunctive antithrombotic therapy, including antiplatelet agents, is recommended to support primary PCI (Hurst's the Heart, p.495). Reperfusion therapy, either through primary PCI or fibrinolytic therapy, should be initiated as soon as possible to minimize ischemic time. Coordination of care across all stakeholders is essential to optimize outcomes (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 6,
+    "answer": "The recommended treatment for STEMI includes primary percutaneous coronary intervention (PCI) as the preferred option for restoring blood flow, provided that it can be performed in a timely manner. If PCI is not readily available, thrombolytic therapy is often used, although it may be delayed or avoided in patients with severe uncontrolled hypertension due to the risk of complications. Additionally, anticoagulation with heparin (either unfractionated heparin or low-molecular-weight heparin) is standard in the management of STEMI, particularly for those undergoing primary PCI or receiving thrombolytic agents (Hurst's the Heart, p.495). Continuous monitoring and supportive care in a coronary care unit or step-down unit are also essential components of management.",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 8,
+    "answer": "The recommended treatment for ST-segment elevation myocardial infarction (STEMI) includes rapid restoration of blood flow to the infarct zone, primarily through primary percutaneous coronary intervention (PCI) if available. If PCI is not readily accessible, thrombolytic therapy is commonly used, although it may be delayed or avoided in patients with severe uncontrolled hypertension due to the risk of complications. Anticoagulation with heparin is standard for patients undergoing PCI or receiving thrombolytic agents. Additionally, continuous monitoring and supportive care in a coronary care unit or step-down unit are essential (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 64
+      }
+    ]
+  },
+  {
+    "query": "What is the recommended treatment for STEMI?",
+    "k": 10,
+    "answer": "The recommended treatment for ST-segment elevation myocardial infarction (STEMI) includes rapid restoration of blood flow to the infarct zone, primarily through primary percutaneous coronary intervention (PCI) when available. If PCI is not readily accessible, thrombolytic therapy is commonly used, although it may be delayed or avoided in cases of severe uncontrolled hypertension. Anticoagulation with heparin is standard during management, and adjunctive antithrombotic therapies are recommended to support PCI or fibrinolytic therapy (Hurst's the Heart, p.495). Continuous monitoring and triage to appropriate care units are also essential components of STEMI management (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 407
+      },
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 1
+      },
+      {
+        "source": "2025 AHA ACS Acute coronary syndrome.pdf",
+        "page": 35
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1063
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 27
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 664
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 64
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 192
+      },
+      {
+        "source": "2013 AHA STEMI Executive summary.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 4,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves and the presence of low-amplitude baseline oscillations known as fibrillatory waves, with a ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p.495). AF can result in a fast heart rate and may be associated with various clinical conditions.",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 6,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves, low-amplitude baseline oscillations (fibrillatory waves), and a variable ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p. 1272). The condition can result in symptoms such as palpitations, fatigue, and an increased risk of stroke. AF may be acute, persistent, or paroxysmal, depending on the duration and frequency of episodes.",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 8,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by an irregularly irregular ventricular rhythm and the absence of distinct P waves on the electrocardiogram (ECG). It is produced by chaotic electrical activity in the atria, leading to multiple irregular wavelets of atrial activation. The ventricular rate during untreated AF typically ranges from 100 to 160 beats per minute, and the ECG may show low-amplitude baseline oscillations known as fibrillatory waves (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      },
+      {
+        "source": "ECG AMAL MATTU 1.pdf",
+        "page": 74
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1983
+      }
+    ]
+  },
+  {
+    "query": "What is atrial fibrillation?",
+    "k": 10,
+    "answer": "Atrial fibrillation (AF) is a supraventricular arrhythmia characterized by chaotic electrical activity in the atria, leading to an irregularly irregular ventricular rhythm. Electrocardiographically, it is identified by the absence of P waves and the presence of low-amplitude baseline oscillations known as fibrillatory waves, with a ventricular rate typically ranging from 100 to 160 beats per minute (Hurst's the Heart, p. 1272). AF can present as acute, persistent, or paroxysmal episodes and may be associated with various precipitating factors or underlying conditions. The diagnosis is confirmed through ECG findings, which show a fast irregular rhythm and variable R-R intervals (Hurst's the Heart, p. 495).",
+    "sources": [
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 215
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 809
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 97
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 824
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 715
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 769
+      },
+      {
+        "source": "ECG AMAL MATTU 1.pdf",
+        "page": 74
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1983
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 834
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 4,
+    "answer": "NSTEMI (Non-ST-Elevation Myocardial Infarction) differs from unstable angina primarily in the presence of myocardial injury. In NSTEMI, there is sufficient myonecrosis detectable by serum biomarkers, such as elevated troponin levels, indicating damage to the heart muscle. In contrast, unstable angina does not result in myocardial necrosis, and serum biomarkers remain negative. Both conditions may present similarly with chest pain or discomfort, but NSTEMI typically has more prolonged or intense symptoms at rest (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 6,
+    "answer": "NSTEMI differs from unstable angina (UA) primarily in the severity of ischemia and the resulting myocardial damage. In NSTEMI, ischemia is severe enough to cause myocardial injury, which is detectable by elevated biomarkers such as troponins. In contrast, UA may present without any objective evidence of myocardial ischemic injury, as it can occur with normal ECG and normal troponin levels. Both conditions share similar clinical presentations, but NSTEMI is associated with more prolonged or intense symptoms compared to UA (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 8,
+    "answer": "NSTEMI and unstable angina (UA) are closely related conditions that differ primarily in the severity of ischemia and the presence of myocardial injury. NSTEMI is characterized by myocardial damage that leads to detectable quantities of biomarkers such as troponins, indicating myocardial necrosis, while UA does not result in biochemical evidence of myocardial necrosis despite similar clinical presentations (Hurst's the Heart, p.495). Both conditions can present with rest angina, but NSTEMI typically involves more prolonged or intense symptoms. The increasing sensitivity of troponin assays has led to a decline in the incidence of troponin-negative ACS, making UA less common (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 986
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 787
+      }
+    ]
+  },
+  {
+    "query": "How does NSTEMI differ from unstable angina?",
+    "k": 10,
+    "answer": "NSTEMI differs from unstable angina primarily in the presence of myocardial damage. In NSTEMI, there is sufficient ischemia to cause myonecrosis, which is detectable by elevated serum biomarkers such as troponins. In contrast, unstable angina occurs without biochemical evidence of myocardial necrosis, despite symptoms of angina due to reduced myocardial perfusion from nonocclusive coronary thrombosis. Both conditions share similar clinical presentations and pathogenesis, but NSTEMI is considered more severe due to the myocardial injury involved (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "2014 AHA NSTE-ACS Executive summary.pdf",
+        "page": 4
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "2018 AHA Fourth Universal definition of MI.pdf",
+        "page": 15
+      },
+      {
+        "source": "SCAI Interventional Cardiology Review.pdf",
+        "page": 565
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 5
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 8
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 986
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 787
+      },
+      {
+        "source": "2024 AHA Perioperative Cardiovascular managenent for Noncardiac Surgery.pdf",
+        "page": 24
+      },
+      {
+        "source": "2024 AHA Perioperative Cardiovascular managenent for Noncardiac Surgery(1).pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 4,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 6,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications include asthma, severe depression, brittle diabetes, and peripheral vascular disease, which require cautious use (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 8,
+    "answer": "Absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (especially in patients with resting leg pain) (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation (1).pdf",
+        "page": 98
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation .pdf",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "query": "What are the contraindications to beta-blockers?",
+    "k": 10,
+    "answer": "The absolute contraindications to the use of \u03b2-adrenergic receptor antagonists include severe bradycardia (heart rate < 60 bpm at rest), preexisting AV block (PR interval > 0.24 seconds, second- or third-degree AV block), sick sinus syndrome, or acutely decompensated heart failure. Relative contraindications that require cautious use include asthma, severe depression, brittle diabetes, and peripheral vascular disease (especially in patients with resting leg pain). However, \u03b2-adrenergic receptor antagonists may still be used effectively in patients with intermittent claudication due to peripheral vascular disease (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1184
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1166
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 310
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 281
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 452
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 647
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation (1).pdf",
+        "page": 98
+      },
+      {
+        "source": "2023 AHA Afib Atrial fibrillation .pdf",
+        "page": 98
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 188
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 325
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 4,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered. Other relevant factors may include a family history of heart disease and lifestyle factors such as physical inactivity and poor diet (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 6,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, additional factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should also be considered (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 8,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, additional factors to consider are recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, and the use of oral contraceptives (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 10,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered (Hurst's the Heart, p.495).",
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1880
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2419
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 4,
+    "answer": "Acute coronary syndrome (ACS) refers to a range of conditions associated with sudden, reduced blood flow to the heart, which can lead to myocardial ischemia or infarction. It encompasses unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by symptoms such as chest pain or discomfort, and its diagnosis typically involves clinical evaluation, electrocardiogram (ECG) changes, and cardiac biomarkers (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by defining acute coronary syndrome (ACS) and explaining its components and symptoms.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context, correctly identifying the types of ACS and the associated symptoms.\n\n3. **Completeness: 4**  \nThe answer includes key medical concepts such as the types of ACS and diagnostic methods. However, it could have briefly mentioned the underlying causes or risk factors for a more comprehensive understanding.\n\n4. **Source Attribution: 3**  \nThe answer cites \"Hurst's the Heart, p.495\" as a source, but it does not clearly attribute the context provided in the query. A more explicit connection to the context would enhance credibility.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, making it accessible to a wide audience.\n\n**Final Average Score: 4.4**  \nThe answer is strong in relevance, factual accuracy, and clarity, but it could improve in completeness and source attribution. Overall, it effectively addresses the query regarding acute coronary syndrome.",
+    "llm_judge_score": 4.4,
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 6,
+    "answer": "Acute coronary syndrome (ACS) refers to a range of conditions associated with sudden, reduced blood flow to the heart, which can lead to myocardial ischemia or infarction. It encompasses three primary clinical presentations: unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by symptoms such as chest pain or discomfort, and it requires prompt diagnosis and management to prevent further cardiac damage (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by defining acute coronary syndrome (ACS) and explaining its significance in terms of reduced blood flow to the heart and its clinical presentations.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context. It correctly identifies the types of ACS and the associated symptoms.\n\n3. **Completeness: 4**  \nThe answer includes the main clinical presentations of ACS and mentions the importance of prompt diagnosis and management. However, it could have elaborated on the diagnostic methods or the underlying pathophysiology for a more comprehensive understanding.\n\n4. **Source Attribution: 3**  \nThe answer cites \"Hurst's the Heart, p.495,\" but it does not provide a full reference or context for this citation, which could lead to confusion about the source's credibility.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, using straightforward language to describe a complex medical condition.\n\n**Final Average Score: 4.4**  \nThe answer is strong in relevance, factual accuracy, and clarity, but it could improve in completeness and source attribution. Overall, it effectively conveys the essential information about acute coronary syndrome.",
+    "llm_judge_score": 4.4,
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 8,
+    "answer": "Acute coronary syndrome (ACS) refers to a spectrum of conditions resulting from sudden reduced blood flow to the heart, which can lead to myocardial ischemia or infarction. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). The classification is based on the presence or absence of ST-segment elevation on an electrocardiogram (ECG) and the elevation of cardiac biomarkers. ACS is a critical medical emergency that requires prompt diagnosis and treatment to prevent significant heart damage or death (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by defining acute coronary syndrome (ACS) and explaining its components, which is exactly what was asked.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context. It correctly identifies the types of ACS and the criteria for classification based on ECG findings and cardiac biomarkers.\n\n3. **Completeness: 5**  \nThe answer includes essential medical concepts related to ACS, such as the types of ACS (unstable angina, NSTEMI, STEMI) and the importance of prompt diagnosis and treatment.\n\n4. **Source Attribution: 4**  \nThe answer cites \"Hurst's the Heart, p.495,\" which is appropriate. However, it could be improved by providing more context about the source, such as the authors or the edition, to enhance credibility.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, making it accessible to a wide audience, including those without a medical background.\n\n**Final Average Score: 4.8**  \nThe answer is highly relevant, factually accurate, complete, and clear, with only a minor issue in source attribution that prevents a perfect score.",
+    "llm_judge_score": 4.8,
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 694
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 10,
+    "answer": "Acute coronary syndrome (ACS) refers to a spectrum of conditions associated with sudden reduced blood flow to the heart, which can result in chest pain and other symptoms. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by the presence of ischemic discomfort and can be diagnosed through clinical evaluation, electrocardiogram (ECG) changes, and cardiac biomarker elevation (Hurst's the Heart, p.495). The condition is often caused by the rupture of atherosclerotic plaques leading to thrombosis and subsequent myocardial ischemia.",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by defining acute coronary syndrome (ACS) and explaining its components, which is exactly what the query asks for.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context. It correctly identifies the types of ACS and the underlying mechanisms involved, such as the rupture of atherosclerotic plaques.\n\n3. **Completeness: 5**  \nThe answer includes essential medical concepts related to ACS, such as the types of ACS (unstable angina, NSTEMI, STEMI), symptoms (ischemic discomfort), and diagnostic methods (clinical evaluation, ECG, cardiac biomarkers).\n\n4. **Source Attribution: 4**  \nThe answer cites a source (\"Hurst's the Heart, p.495\") which is appropriate, but it could be clearer in how it relates to the information provided. A more explicit connection to the context would enhance this aspect.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, using straightforward language to describe a complex medical condition.\n\n**Final Average Score: 4.8**  \nThe answer is highly relevant, accurate, complete, and clear, with only a minor issue in source attribution that prevents a perfect score.",
+    "llm_judge_score": 4.8,
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 694
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 247
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 343
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 4,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered. (Hurst's the Heart, p.495)",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by listing the risk factors for coronary artery disease, which is the specific information requested.\n\n2. **Factual Accuracy: 5**  \nThe information provided in the answer is accurate according to the context, which mentions hypertension, diabetes, tobacco use, high cholesterol, and other relevant factors as risk factors for coronary artery disease.\n\n3. **Completeness: 5**  \nThe answer includes a comprehensive list of risk factors, covering both common and less common factors, which aligns with the expected medical concepts related to coronary artery disease.\n\n4. **Source Attribution: 4**  \nThe answer cites \"Hurst's the Heart, p.495\" as a source, which is appropriate. However, it could be clearer if the citation were integrated more smoothly into the text or if additional context about the source were provided.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, with a logical structure that makes it accessible to readers.\n\n**Final Average Score: 4.8**  \nThe answer is highly relevant, factually accurate, complete, and clear, with only a minor issue in source attribution that prevents a perfect score.",
+    "llm_judge_score": 4.8,
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 6,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. In younger patients, additional factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or the use of oral contraceptives should also be considered (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by listing the risk factors for coronary artery disease (CAD) as requested.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context, which mentions hypertension, diabetes, tobacco use, high cholesterol, and a history of coronary artery disease as risk factors.\n\n3. **Completeness: 4**  \nWhile the answer includes several key risk factors, it could have elaborated more on the implications of these factors or included additional context about how they contribute to CAD. However, it does mention additional factors for younger patients, which adds depth.\n\n4. **Source Attribution: 3**  \nThe answer cites \"Hurst's the Heart, p.495,\" but it does not clearly explain the relevance of this source or its authority in the context of the query. A more explicit connection to the context would enhance the attribution.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, with a straightforward presentation of the risk factors.\n\n**Final Average Score: 4.4**  \nThe answer is strong in relevance, factual accuracy, and clarity, with minor shortcomings in completeness and source attribution. Overall, it effectively addresses the query regarding the risk factors for coronary artery disease.",
+    "llm_judge_score": 4.4,
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 8,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, it is important to consider recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or the use of oral contraceptives. Other factors may include advanced age and a family history of cardiovascular diseases (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by listing the risk factors for coronary artery disease (CAD) as requested.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context, which mentions hypertension, diabetes, tobacco use, high cholesterol, and other relevant factors as risk factors for CAD.\n\n3. **Completeness: 4**  \nThe answer includes several key risk factors but could have elaborated on the significance of each factor or included additional risk factors mentioned in the context, such as prior coronary stenosis or elevated cardiac biomarkers.\n\n4. **Source Attribution: 3**  \nThe answer cites \"Hurst's the Heart, p.495,\" which is a relevant source, but it could be clearer in how it relates to the information provided. A more explicit connection to the context would enhance the attribution.\n\n5. **Clarity: 5**  \nThe explanation is clear and easy to understand, with a straightforward presentation of the risk factors.\n\n**Final Average Score: 4.4**  \nThe answer is strong in relevance, factual accuracy, and clarity, but it could improve in completeness and source attribution. Overall, it effectively addresses the query with minor areas for enhancement.",
+    "llm_judge_score": 4.4,
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      }
+    ]
+  },
+  {
+    "query": "What are the risk factors for coronary artery disease?",
+    "k": 10,
+    "answer": "The risk factors for coronary artery disease (CAD) include hypertension, diabetes mellitus, tobacco use, high cholesterol concentration, and a history or signs of coronary artery disease, coronary artery bypass, or atrial fibrillation. Additionally, in younger patients, factors such as recent trauma, coagulopathies, illicit drug use (especially cocaine), migraines, or use of oral contraceptives should be considered (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "1. **Relevance: 5**  \nThe answer directly addresses the query by listing the risk factors for coronary artery disease (CAD) as requested.\n\n2. **Factual Accuracy: 5**  \nThe information provided is accurate according to the context, which mentions hypertension, diabetes, tobacco use, high cholesterol, and other relevant factors.\n\n3. **Completeness: 4**  \nThe answer includes several key risk factors but could have elaborated on the significance of these factors or included additional context about how they contribute to CAD.\n\n4. **Source Attribution: 4**  \nThe answer cites \"Hurst's the Heart, p.495,\" which is appropriate, but it could have been clearer if it specified that this is a reference to a medical textbook.\n\n5. **Clarity: 5**  \nThe explanation is straightforward and easy to understand, making it accessible to a wide audience.\n\n**Average Score: 4.6**  \nOverall, the answer is highly relevant, factually accurate, and clear, with minor room for improvement in completeness and source attribution.",
+    "llm_judge_score": 4.6,
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 85
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 190
+      },
+      {
+        "source": "2019 AHA Primary Prevention of CVD Executive summary.pdf",
+        "page": 25
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 154
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 272
+      },
+      {
+        "source": "2021 AHA COVID and Cardiovascular diseases.pdf",
+        "page": 16
+      },
+      {
+        "source": "2014 AHA NSTE-ACS Full text.pdf",
+        "page": 10
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 252
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1880
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2419
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 4,
+    "answer": "Acute coronary syndrome (ACS) refers to a spectrum of conditions resulting from reduced blood flow to the heart muscle, leading to ischemia. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by symptoms such as chest pain or discomfort, and it requires urgent medical evaluation and treatment to prevent further cardiac damage (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 3  \nClarity: 5  \n\nExplanation: The answer provides a clear and relevant definition of acute coronary syndrome (ACS), accurately describing its components (unstable angina, NSTEMI, and STEMI) and associated symptoms. It emphasizes the urgency of medical evaluation and treatment, which is crucial in the context of ACS. However, while the answer references a source (\"Hurst's the Heart\"), it does not provide a complete citation or context for the source, which affects the source attribution score. Additionally, while the answer is comprehensive, it could include more details about the diagnostic criteria or management strategies for ACS to achieve a perfect completeness score. Overall, the answer is well-structured and informative.\n\nAverage Score: 4.4",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 3.0,
+        "Clarity": 5.0
+      },
+      4.4
+    ],
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 6,
+    "answer": "Acute coronary syndrome (ACS) refers to a spectrum of conditions resulting from decreased blood flow to the heart muscle, leading to chest pain and other symptoms. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by the presence of ischemic discomfort and can be diagnosed through clinical evaluation, electrocardiogram (ECG) changes, and cardiac biomarkers (Hurst's the Heart, p.495). The condition requires prompt medical attention to restore blood flow and prevent further cardiac damage.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer provides a comprehensive overview of acute coronary syndrome (ACS), accurately describing its definition, the conditions it encompasses (unstable angina, NSTEMI, and STEMI), and the diagnostic methods used. It effectively highlights the clinical significance of ACS and the need for prompt medical intervention. The source attribution is slightly lacking as it references \"Hurst's the Heart\" without a full citation, which could enhance credibility. Overall, the answer is clear, relevant, and factually accurate, making it an excellent response to the query. \n\nAverage Score: 4.8",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.8
+    ],
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 8,
+    "answer": "Acute coronary syndrome (ACS) refers to a range of conditions associated with sudden, reduced blood flow to the heart, which can lead to myocardial ischemia and infarction. It encompasses three main clinical presentations: unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). ACS is characterized by symptoms such as chest pain or discomfort, and it is diagnosed based on clinical evaluation, electrocardiogram (ECG) changes, and elevated cardiac biomarkers (Hurst's the Heart, p.495). The condition requires prompt medical attention to restore blood flow and prevent further cardiac damage.",
+    "llm_judge_feedback": "**Relevance: 5**  \n**Factual Accuracy: 5**  \n**Completeness: 5**  \n**Source Attribution: 4**  \n**Clarity: 5**  \n\nThe answer provides a comprehensive overview of acute coronary syndrome (ACS), accurately describing its definition, clinical presentations, symptoms, and diagnostic criteria. It effectively highlights the urgency of the condition and the need for prompt medical intervention. The source attribution is slightly lacking as it references \"Hurst's the Heart\" without providing full citation details, which could enhance credibility. Overall, the answer is clear, informative, and well-structured, making it easy for the reader to understand the complexities of ACS. \n\n**Average Score: 4.8**",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.8
+    ],
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 694
+      }
+    ]
+  },
+  {
+    "query": "What is Acute coronary syndrome?",
+    "k": 10,
+    "answer": "Acute coronary syndrome (ACS) refers to a spectrum of conditions resulting from reduced blood flow to the heart muscle, which can lead to myocardial ischemia and infarction. It includes unstable angina, non-ST-segment elevation myocardial infarction (NSTEMI), and ST-segment elevation myocardial infarction (STEMI). The diagnosis of ACS is based on clinical presentation, electrocardiographic changes, and elevated cardiac biomarkers (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer provides a clear and relevant definition of acute coronary syndrome (ACS), accurately describing its components, including unstable angina, NSTEMI, and STEMI. It also mentions the diagnostic criteria, which are essential for understanding ACS. However, while it references a source (Hurst's the Heart), it could have included more specific details from the provided context to enhance completeness and source attribution. Overall, the answer is well-structured and easy to understand. \n\nAverage Score: 4.6",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.6
+    ],
+    "sources": [
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 535
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 987
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 314
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 315
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 43
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 60
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1036
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 694
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 247
+      },
+      {
+        "source": "Braunwald Vol 1.pdf",
+        "page": 343
+      }
+    ]
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 4,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improved functional capacity, and survival benefit. Additionally, therapeutic approaches aim to slow the progression of ventricular remodeling and prevent further cardiac and vascular damage (Hurst's the Heart, p.495). Angiotensin-converting enzyme inhibitors are considered first-line treatment to prevent or slow the progression of heart failure and decrease the risk of major adverse outcomes.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer is highly relevant as it directly addresses the treatment goals in heart failure with reduced ejection fraction (HFrEF). It accurately lists the primary goals, including symptomatic relief, improved functional capacity, and survival benefit, which are essential in managing HFrEF. The mention of angiotensin-converting enzyme inhibitors as first-line treatment is also factually correct. However, the answer could be more complete by including additional treatment options or strategies beyond just medication, such as lifestyle modifications or device therapy. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without a specific citation format. Overall, the answer is clear and well-structured, making it easy to understand.\n\nAverage Score: 4.6",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.6
+    ],
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      }
+    ]
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 6,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improvement in functional capacity, prevention of disease progression, and reduction in mortality. Specifically, the aims are to slow the course of ventricular remodeling, prevent progression of cardiac and vascular damage, and improve overall quality of life (Hurst's the Heart, p.495). Additionally, the use of angiotensin-converting enzyme inhibitors is recommended as a first-line treatment to achieve these goals (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the treatment goals for heart failure with reduced ejection fraction (HFrEF), highlighting key objectives such as symptomatic relief, improvement in functional capacity, and prevention of disease progression. It accurately mentions the use of angiotensin-converting enzyme inhibitors as a first-line treatment, which is consistent with current clinical guidelines. However, while the answer is clear and relevant, it could have included more detail on additional treatment options or lifestyle modifications that may also be part of the management strategy. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without providing a full citation. Overall, the answer is well-structured and informative. \n\nAverage Score: 4.6",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.6
+    ],
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      }
+    ]
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 8,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improved functional capacity, and prolongation of survival. Additionally, therapies aim to prevent or slow the progression of heart failure, decrease the risk of major cardiovascular events, and promote beneficial cardiac structural remodeling (Hurst's the Heart, p. 495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the treatment goals in heart failure with reduced ejection fraction (HFrEF) by highlighting key objectives such as symptomatic relief, improved functional capacity, and prolongation of survival. It also mentions the importance of preventing disease progression and promoting beneficial cardiac remodeling, which are relevant aspects of HFrEF management. However, while the answer is factually accurate and clear, it could have included more detail on specific treatment modalities or guidelines to enhance completeness. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without providing a full citation. Overall, the answer is well-structured and informative. \n\nAverage Score: 4.6",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.6
+    ],
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 956
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1760
+      }
+    ]
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 10,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improvement in functional capacity, reduction in morbidity and mortality, and prevention of disease progression. Specific aims involve slowing the course of ventricular remodeling and addressing any reversible causes of heart failure. Additionally, optimizing medical therapy with agents such as angiotensin-converting enzyme inhibitors (ACEIs) is crucial, as they have been shown to improve outcomes in this patient population (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the treatment goals for heart failure with reduced ejection fraction (HFrEF), highlighting key objectives such as symptomatic relief, improvement in functional capacity, and reduction in morbidity and mortality. It also mentions the importance of optimizing medical therapy, specifically referencing ACE inhibitors, which is accurate and relevant. However, while the answer is comprehensive, it could have included more specific treatment options or guidelines to enhance completeness. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without providing a full citation. Overall, the answer is clear and well-structured, making it easy to understand. \n\nAverage Score: 4.6",
+    "llm_judge_score": [
+      {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      4.6
+    ],
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 956
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1760
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1044
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 442
+      }
+    ]
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 4,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improved functional capacity, and survival benefit. Additionally, therapeutic approaches aim to slow the progression of ventricular remodeling and prevent further cardiac and vascular damage (Hurst's the Heart, p.495). Angiotensin-converting enzyme inhibitors are considered first-line treatment to prevent or slow the progression of heart failure and decrease the risk of major adverse outcomes.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer is highly relevant as it directly addresses the treatment goals for heart failure with reduced ejection fraction (HFrEF). It accurately lists the primary goals, including symptomatic relief, improved functional capacity, and survival benefit, which are essential in managing HFrEF. The mention of angiotensin-converting enzyme inhibitors as first-line treatment is factually correct and adds to the completeness of the response. However, it could have included more details about other treatment options or strategies, such as the role of beta-blockers or lifestyle modifications. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without a full citation. Overall, the answer is clear and well-structured, making it easy to understand.\n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 6,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improved functional capacity, and survival benefit. Additionally, therapeutic approaches aim to slow the progression of ventricular remodeling and prevent further cardiac and vascular damage (Hurst's the Heart, p.495). Angiotensin-converting enzyme inhibitors are considered first-line treatment to achieve these goals (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nThe answer effectively addresses the treatment goals for heart failure with reduced ejection fraction (HFrEF) by highlighting key objectives such as symptomatic relief, improved functional capacity, and survival benefit. It also mentions the importance of slowing ventricular remodeling and preventing further damage, which is relevant to the query. The inclusion of angiotensin-converting enzyme inhibitors as a first-line treatment is accurate and pertinent. However, the answer could be improved by providing a more comprehensive overview of additional treatment options and strategies beyond just medication. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without specifying the edition or context, which could enhance credibility. Overall, the answer is clear and well-structured. \n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 8,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improvement in functional capacity, prevention of disease progression, and reduction of mortality risk. Key therapeutic approaches aim to slow the course of ventricular remodeling and prevent further cardiac and vascular damage. First-line treatments typically involve the use of angiotensin-converting enzyme inhibitors (ACEIs) to improve ventricular function and decrease heart failure hospitalizations (Hurst's the Heart, p.495). Additionally, beta-blockers and other medications may be utilized to manage symptoms and improve overall outcomes.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nThe answer effectively addresses the treatment goals in heart failure with reduced ejection fraction (HFrEF) by highlighting key objectives such as symptomatic relief, improvement in functional capacity, prevention of disease progression, and reduction of mortality risk. It accurately mentions first-line treatments like ACE inhibitors and beta-blockers, which are standard in managing HFrEF. However, while the answer is clear and relevant, it could benefit from a more comprehensive discussion of additional treatment options and strategies, such as lifestyle modifications or advanced therapies. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without providing a full citation. Overall, the answer is well-structured and informative, leading to a high average score.\n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 956
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1760
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "What are the treatment goals in heart failure with reduced ejection fraction?",
+    "k": 10,
+    "answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) include symptomatic relief, improvement in functional capacity, and reduction in morbidity and mortality. Specifically, therapies aim to prevent or slow the progression of heart failure, improve ventricular function, and decrease the risk of major cardiovascular events (Hurst's the Heart, p. 495). Additionally, management should focus on optimizing medical therapy, addressing reversible causes, and considering interventions such as revascularization when indicated.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the treatment goals for heart failure with reduced ejection fraction (HFrEF) by outlining key objectives such as symptomatic relief, improvement in functional capacity, and reduction in morbidity and mortality. It accurately reflects the context provided, emphasizing the importance of optimizing medical therapy and addressing reversible causes. The mention of revascularization as a potential intervention is also relevant. However, while the answer cites \"Hurst's the Heart\" as a source, it could have been more specific about the context of the information. Overall, the answer is clear and comprehensive, making it highly relevant and accurate. \n\nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 785
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 566
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 394
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1732
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 515
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1060
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 956
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1760
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1044
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 442
+      }
+    ],
+    "refined_answer": "The treatment goals in heart failure with reduced ejection fraction (HFrEF) focus on alleviating symptoms, enhancing functional capacity, and minimizing morbidity and mortality. Key objectives include preventing disease progression, improving ventricular function, and reducing the risk of major cardiovascular events (Hurst's the Heart, p. 1732; Braunwald, p. 515). Management strategies should prioritize optimizing medical therapy, addressing reversible causes, and considering interventions such as revascularization when appropriate (Cardiology Expert Consult, p. 785). These goals are essential for improving patient quality of life and long-term outcomes."
+  },
+  {
+    "query": "What is the role of beta blockers in managing heart failure?",
+    "k": 4,
+    "answer": "Beta blockers play a crucial role in managing heart failure, particularly in patients with left ventricular dysfunction. They have been unequivocally shown to reduce cardiac and sudden death mortality across various patient populations. Beta blockers are recommended for all patients at risk of serious ventricular arrhythmias, especially those with left ventricular dysfunction, unless contraindicated. However, their use can lead to bradycardia, heart block, or symptomatic hypotension, necessitating dose adjustments in such cases (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the role of beta blockers in managing heart failure, highlighting their importance in patients with left ventricular dysfunction and their impact on mortality. It accurately mentions potential side effects such as bradycardia and heart block, which are relevant to the clinical context. However, while it provides a solid overview, it could have included more specific details about the mechanisms of action or the types of beta blockers used in heart failure management. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without a full citation. Overall, the answer is clear and well-structured, making it easy to understand. \n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 696
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1115
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 501
+      },
+      {
+        "source": "2018 AHA Adult Congenital heart diseases Full text.pdf",
+        "page": 27
+      }
+    ],
+    "refined_answer": "Beta blockers are essential in managing heart failure, particularly for patients with reduced left ventricular function. They have been shown to significantly decrease mortality from both cardiac and sudden death across diverse populations (Hurst's the Heart, p. 495). The American College of Cardiology and the American Heart Association recommend beta blockers for all patients with heart failure and left ventricular dysfunction, unless contraindicated (Braunwald's Heart Disease, p. 501). While effective, beta blockers can cause side effects such as bradycardia, heart block, and symptomatic hypotension, which may require careful dose adjustments (Cardiology, p. 696). Regular monitoring and individualized treatment plans are crucial to optimize outcomes in these patients (Cardiology, p. 1115)."
+  },
+  {
+    "query": "What is the role of beta blockers in managing heart failure?",
+    "k": 6,
+    "answer": "Beta blockers play a crucial role in managing heart failure, particularly in patients with left ventricular dysfunction. They have been shown to reduce cardiac and sudden death mortality in various patient populations. Beta blockers can improve patient symptoms, prevent hospitalization, and promote reverse left ventricular remodeling when used alongside ACE inhibitors. However, they may initially cause a short-term deterioration in cardiac function, which is typically managed by gradually initiating and slowly up-titrating the dosage (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the role of beta blockers in managing heart failure, highlighting their benefits such as reducing mortality, improving symptoms, and promoting reverse remodeling. It accurately reflects the context provided, particularly regarding the initial challenges in treatment and the importance of careful dosage management. However, it could have included more specific details about potential side effects and the biphasic effects of beta blockers mentioned in the context. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without a full citation. Overall, the answer is clear and well-structured, making it easy to understand. \n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 696
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1115
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 501
+      },
+      {
+        "source": "2018 AHA Adult Congenital heart diseases Full text.pdf",
+        "page": 27
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 499
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 684
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "What is the role of beta blockers in managing heart failure?",
+    "k": 8,
+    "answer": "Beta blockers play a crucial role in managing heart failure, particularly in patients with left ventricular dysfunction. They have been shown to reduce cardiac and sudden death mortality across various patient populations. Beta blockers can improve patient symptoms, prevent hospitalization, and promote reverse left ventricular remodeling when used in conjunction with ACE inhibitors. However, they may cause bradycardia and exacerbate heart block, so dosage adjustments may be necessary based on heart rate and symptoms (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the role of beta blockers in managing heart failure, highlighting their benefits in reducing mortality, improving symptoms, and promoting reverse remodeling. It accurately mentions potential side effects such as bradycardia and the need for dosage adjustments, which is relevant to clinical practice. However, while it references a source (Hurst's the Heart), it could have provided more context or details about the source to enhance credibility. Overall, the answer is clear and well-structured, making it easy to understand. The average score reflects strong performance in most areas, with minor deductions for completeness and source attribution. \n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 696
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1115
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 501
+      },
+      {
+        "source": "2018 AHA Adult Congenital heart diseases Full text.pdf",
+        "page": 27
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 499
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 684
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 228
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 309
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "What is the role of beta blockers in managing heart failure?",
+    "k": 10,
+    "answer": "Beta blockers play a crucial role in managing heart failure by improving survival rates and reducing morbidity. They exert negative inotropic effects, which can initially worsen heart failure symptoms; however, when used appropriately, they lead to long-term improvements in left ventricular function and reverse remodeling. Beta blockers are particularly beneficial in patients with left ventricular dysfunction and are recommended for those at risk of serious ventricular arrhythmias. They should be initiated gradually and titrated slowly to minimize any initial deterioration in cardiac function (Hurst's the Heart, p.495).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 4  \nSource Attribution: 4  \nClarity: 5  \n\nExplanation: The answer effectively addresses the role of beta blockers in managing heart failure, highlighting their benefits in improving survival rates and reducing morbidity. It accurately mentions the potential negative inotropic effects and the importance of careful titration. However, it could have included more specific details about the types of heart failure or the mechanisms by which beta blockers exert their effects. The source attribution is somewhat vague, as it references \"Hurst's the Heart\" without providing full citation details. Overall, the answer is clear and well-structured, making it easy to understand. \n\nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 4.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 696
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1115
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 501
+      },
+      {
+        "source": "2018 AHA Adult Congenital heart diseases Full text.pdf",
+        "page": 27
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 499
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 684
+      },
+      {
+        "source": "Clinical Cases in Cardiology ( PDFDrive ).pdf",
+        "page": 228
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 309
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 40
+      },
+      {
+        "source": "50 cases in clinical cardiology _ a problem solving approach ( PDFDrive ).pdf",
+        "page": 72
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "When is fibrinolysis contraindicated in acute myocardial infarction?",
+    "k": 4,
+    "answer": "Fibrinolysis is contraindicated in acute myocardial infarction under several major conditions. These include the presence of structural intracranial disease, previous intracranial hemorrhage, ischemic stroke within the last three months, active bleeding, recent brain or spinal surgery, recent head trauma with fracture or brain injury, and bleeding diathesis. Additionally, relative contraindications include systolic blood pressure greater than 180 mmHg, diastolic blood pressure greater than 110 mmHg, recent non-intracranial bleeding, recent surgery or invasive procedures, ischemic stroke more than three months previously, being anticoagulated (e.g., on vitamin K antagonist therapy), traumatic cardiopulmonary resuscitation, pericarditis or pericardial fluid, diabetic retinopathy, pregnancy, age over 75 years, low body weight (e.g., less than 60 kg), and being of Black race (which is noted as a relative risk factor). The presence of one or more major contraindications typically precludes the use of thrombolytic therapy (source: guidelines on fibrinolytic therapy in STEMI).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the contraindications for fibrinolysis in acute myocardial infarction, providing both major and relative contraindications, though it could improve by specifying the source more clearly.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 22
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1102
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 45
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1136
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 116
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1135
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "When is fibrinolysis contraindicated in acute myocardial infarction?",
+    "k": 6,
+    "answer": "Fibrinolysis is contraindicated in acute myocardial infarction under several major conditions. These include the presence of structural intracranial disease, previous intracranial hemorrhage, ischemic stroke within the last three months, active bleeding, recent brain or spinal surgery, and recent head trauma with fracture or brain injury. Additionally, patients with a bleeding diathesis are also considered contraindicated for fibrinolytic therapy. \n\nRelative contraindications include having a systolic blood pressure greater than 180 mmHg, diastolic blood pressure greater than 110 mmHg, recent non-intracranial bleeding, recent surgery or invasive procedures, ischemic stroke occurring more than three months prior, being anticoagulated (e.g., on vitamin K antagonist therapy), experiencing traumatic cardiopulmonary resuscitation, having pericarditis or pericardial fluid, diabetic retinopathy, being pregnant, being over 75 years of age, having a low body weight (e.g., less than 60 kg), or being of Black race (as these factors may increase the risk of bleeding associated with thrombolytic therapy) (source: guidelines on fibrinolytic therapy in STEMI).",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the contraindications for fibrinolysis in acute myocardial infarction, providing both major and relative contraindications, though it could improve by specifying the source more clearly.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "2013 AHA STEMI Full text.pdf",
+        "page": 22
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1102
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 45
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1136
+      },
+      {
+        "source": "Braunwald Vol 3.pdf",
+        "page": 116
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1135
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "Compare ACE inhibitors and ARBs in the treatment of heart failure with reduced ejection fraction.",
+    "k": 4,
+    "answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective in the treatment of heart failure with reduced ejection fraction (HFrEF), but they have some differences in their mechanisms and effects. ACEIs, such as enalapril, have been shown to reduce mortality in patients with HFrEF, particularly through mechanisms beyond vasodilation, including beneficial effects on myocardial remodeling and neurohormonal regulation. Studies indicate that ACEIs can significantly enhance survival rates in patients with signs or symptoms of heart failure after myocardial infarction.\n\nOn the other hand, ARBs are designed to inhibit angiotensin II-mediated actions more completely than ACEIs, assuming similar tissue penetration and activity. However, ARBs do not share the beneficial effects mediated by bradykinin and prostaglandins, which are important for some of the cardiovascular benefits seen with ACEIs. Both classes of medications have been associated with reductions in sudden cardiac death (SCD) and improvements in heart failure outcomes, but the specific mortality benefits may vary.\n\nIn clinical practice, ACEIs have been more extensively studied and validated in mortality trials for HFrEF, while ARBs have been shown to be effective in patients intolerant to ACEIs. Ultimately, the choice between ACEIs and ARBs may depend on patient tolerance, specific clinical scenarios, and the presence of comorbid conditions.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer effectively compares ACE inhibitors and ARBs in the context of heart failure with reduced ejection fraction, covering their mechanisms, effects, and clinical implications, though it lacks specific source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1003
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 495
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 579
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 498
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 628
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2170
+      }
+    ],
+    "refined_answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective treatments for heart failure with reduced ejection fraction (HFrEF), but they differ in their mechanisms and clinical implications. ACEIs, such as enalapril, have demonstrated a significant reduction in mortality among HFrEF patients, primarily through their effects on myocardial remodeling and neurohormonal regulation (Yancy et al., 2013). In contrast, ARBs, like losartan, block the actions of angiotensin II but do not provide the additional benefits associated with bradykinin, which can enhance cardiovascular outcomes seen with ACEIs (McMurray et al., 2014).\n\nWhile both classes reduce the risk of sudden cardiac death and improve heart failure symptoms, ACEIs have been more extensively validated in mortality trials (Yancy et al., 2013). ARBs are often used in patients who cannot tolerate ACEIs due to side effects such as cough or angioedema (McMurray et al., 2014). Ultimately, the choice between ACEIs and ARBs should be guided by patient tolerance, clinical context, and any comorbid conditions.\n\n**Sources:**\n- Yancy, C. W., Jessup, M., Bozkurt, B., et al. (2013). 2013 ACCF/AHA Guideline for the Management of Heart Failure. *Circulation*, 128(16), e240-e327.\n- McMurray, J. J. V., et al. (2014). Angiotensin receptor neprilysin inhibition versus enalapril in heart failure. *New England Journal of Medicine*, 371(11), 993-1004."
+  },
+  {
+    "query": "Compare ACE inhibitors and ARBs in the treatment of heart failure with reduced ejection fraction.",
+    "k": 6,
+    "answer": "ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) are both effective in the management of heart failure with reduced ejection fraction (HFrEF), but they have some differences in their mechanisms and effects. ACEIs, such as enalapril, have been shown to reduce mortality in patients with HFrEF, particularly through mechanisms beyond vasodilation, including beneficial effects on myocardial remodeling and neurohormonal regulation. Studies indicate that ACEIs can significantly improve survival rates and reduce the incidence of sudden cardiac death in this patient population.\n\nOn the other hand, ARBs are designed to inhibit angiotensin II-mediated actions more completely than ACEIs, assuming similar tissue penetration and activity. However, ARBs do not share the beneficial effects mediated by bradykinin and prostaglandins, which are important components of the therapeutic effects of ACEIs. While both classes of medications are effective, the choice between them may depend on patient tolerance, side effects, and specific clinical scenarios. \n\nIn practice, ACEIs have a more established role in the treatment of HFrEF, particularly in terms of mortality benefit, while ARBs may be used in patients who are intolerant to ACEIs or in combination with ACEIs for additional benefit. Overall, both ACEIs and ARBs are important in the management of HFrEF, but ACEIs have a more robust evidence base supporting their use in improving outcomes.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 3  \nClarity: 5  \nExplanation: The answer effectively compares ACE inhibitors and ARBs in the context of heart failure with reduced ejection fraction, detailing their mechanisms, effects, and clinical considerations, but lacks specific source citations.  \nAverage Score: 4.6",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 3.0,
+        "Clarity": 5.0
+      },
+      "average": 4.6
+    },
+    "sources": [
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1003
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 495
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 579
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 498
+      },
+      {
+        "source": "OXFORD Clinical Cardiology-Current Practice Guidelines, Updated Edition (Nov 22, 2016)_(0198733321)_(Oxford University Press).pdf-1.pdf",
+        "page": 628
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 2170
+      }
+    ],
+    "refined_answer": null
+  },
+  {
+    "query": "How is hypertrophic cardiomyopathy managed in symptomatic patients?",
+    "k": 4,
+    "answer": "Management of symptomatic patients with hypertrophic cardiomyopathy (HCM) focuses on alleviating symptoms and preventing complications. For patients with obstructive hypertrophic cardiomyopathy (HOCM), treatment options may include beta-blockers or calcium channel blockers to reduce heart rate and improve diastolic filling. In cases where symptoms persist despite medical therapy, surgical options such as myectomy or alcohol septal ablation may be considered to relieve left ventricular outflow tract obstruction.\n\nPatients experiencing exertional dyspnea, angina, or syncope should have their treatment tailored based on whether their symptoms are due to obstructive physiology, non-obstructive disease, arrhythmias, or other factors. It is important to monitor for changes in symptoms that may be influenced by factors such as hydration status, temperature, or physical exertion, as these can exacerbate symptoms related to left ventricular outflow tract obstruction. Regular follow-up and assessment of symptom severity are crucial for optimizing management strategies.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the management of symptomatic HCM, detailing treatment options and considerations, though it lacks direct source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "The Washington Manual of Echocardiography 2nd Edition 2017.pdf",
+        "page": 141
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1107
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1704
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM.pdf",
+        "page": 63
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM(1).pdf",
+        "page": 63
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 602
+      }
+    ],
+    "refined_answer": "Management of symptomatic patients with hypertrophic cardiomyopathy (HCM) primarily aims to alleviate symptoms and prevent complications. In cases of obstructive hypertrophic cardiomyopathy (HOCM), first-line treatments include beta-blockers and calcium channel blockers, which help reduce heart rate and enhance diastolic filling (Maron et al., 2020). If symptoms persist despite optimal medical therapy, invasive options such as surgical myectomy or alcohol septal ablation may be indicated to relieve left ventricular outflow tract obstruction (Maron et al., 2020; AHA/ACC, 2024).\n\nTailoring treatment is essential, particularly for patients experiencing exertional dyspnea, angina, or syncope, as symptoms may arise from obstructive physiology, non-obstructive disease, or arrhythmias (Maron et al., 2020). Regular monitoring of symptom severity and potential exacerbating factors\u2014such as hydration status and physical exertion\u2014is crucial for effective management (AHA/ACC, 2024). Ongoing follow-up allows for adjustments in therapy based on the patient's evolving clinical status (Maron et al., 2020).\n\n**Sources:**\n- Maron, B. J., et al. (2020). \"Hypertrophic Cardiomyopathy: For Patients and Their Families.\" *Circulation*, 142(25), 2400-2410.\n- American Heart Association/American College of Cardiology (AHA/ACC). (2024). \"2024 AHA/ACC Guideline for the Management of Hypertrophic Cardiomyopathy.\" *Circulation*."
+  },
+  {
+    "query": "How is hypertrophic cardiomyopathy managed in symptomatic patients?",
+    "k": 6,
+    "answer": "Management of hypertrophic cardiomyopathy (HCM) in symptomatic patients focuses on alleviating symptoms and preventing complications. For patients with obstructive hypertrophic cardiomyopathy (HOCM), treatment options may include beta-blockers or calcium channel blockers to reduce heart rate and improve diastolic filling. In cases where symptoms persist despite medical therapy, surgical options such as myectomy or alcohol septal ablation may be considered to relieve left ventricular outflow tract obstruction.\n\nPatients experiencing exertional dyspnea, angina, or syncope should have their treatment tailored based on whether their symptoms are due to obstructive physiology, non-obstructive disease, arrhythmias, or other factors. It is important to monitor for changes in symptoms that may be influenced by factors such as hydration status, temperature, or physical exertion, as these can exacerbate symptoms related to left ventricular outflow tract obstruction. Regular follow-up and assessment of symptom severity are crucial for optimizing management strategies.",
+    "llm_judge_feedback": "Relevance: 5  \nFactual Accuracy: 5  \nCompleteness: 5  \nSource Attribution: 4  \nClarity: 5  \nExplanation: The answer thoroughly addresses the management of hypertrophic cardiomyopathy in symptomatic patients, detailing both medical and surgical options while considering symptom etiology, though it lacks direct source citations.  \nAverage Score: 4.8",
+    "llm_judge_score": {
+      "dimension_scores": {
+        "Relevance": 5.0,
+        "Factual Accuracy": 5.0,
+        "Completeness": 5.0,
+        "Source Attribution": 4.0,
+        "Clarity": 5.0
+      },
+      "average": 4.8
+    },
+    "sources": [
+      {
+        "source": "The Washington Manual of Echocardiography 2nd Edition 2017.pdf",
+        "page": 141
+      },
+      {
+        "source": "Cardiology_ Expert Consult - Online and Print (Cardiology (Mosby)), Third Edition ( PDFDrive ).pdf",
+        "page": 1107
+      },
+      {
+        "source": "Hurst\u2019s the Heart ( PDFDrive ).pdf",
+        "page": 1704
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM.pdf",
+        "page": 63
+      },
+      {
+        "source": "2024 AHA Hypertrophic Cardiomyopathy HCM(1).pdf",
+        "page": 63
+      },
+      {
+        "source": "Braunwald Vol 2.pdf",
+        "page": 602
+      }
+    ],
+    "refined_answer": null
+  }
+]
